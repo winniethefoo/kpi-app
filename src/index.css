@@ -12,3 +12,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
     monospace;
 }
+
+chart {
+  display: "inline-block";
+  width: 350;
+  margin: 20;
+  border: "1px solid #eee";
+  padding: 10;
+}
